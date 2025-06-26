@@ -1,12 +1,12 @@
 [
   {
-    "imageResName": "video1",
-    "description": "Video esempio 1",
-    "link": "https://www.youtube.com/watch?v=abc123"
-  },
+    "imageUrl": "https://raw.githubusercontent.com/giofalco/videdata1/main/video1.jpg",
+    "description": "immagini repertorio 1",
+    "link": "https://www.youtube.com/watch?v=7rIAmARslmY&t=251s"
+},
   {
-    "imageResName": "video2",
-    "description": "Video esempio 2",
-    "link": "https://www.youtube.com/watch?v=def456"
+    "imageUrl": "https://raw.githubusercontent.com/giofalco/videodata1/video2.jpg",
+    "description": "immagini repertorio2",
+    "link": "https://www.youtube.com/watch?v=SG27cGg9kvo"
   }
 ]
