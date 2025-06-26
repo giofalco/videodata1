@@ -1,0 +1,12 @@
+[
+  {
+    "imageResName": "video1",
+    "description": "Video esempio 1",
+    "link": "https://www.youtube.com/watch?v=abc123"
+  },
+  {
+    "imageResName": "video2",
+    "description": "Video esempio 2",
+    "link": "https://www.youtube.com/watch?v=def456"
+  }
+]
